@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dean.nicholas.d[at]gmail.com
 - ⚡ Fun fact: When I'm not sharpening my data skills I'll be working on surfing/skiing, improving my rib rub recipe, or learning something new on the guitar.
 
-
-
-Files organization can be found here:
-
